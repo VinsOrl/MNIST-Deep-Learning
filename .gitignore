@@ -1,0 +1,33 @@
+# Data directory (MNIST dataset)
+data/
+*.gz
+
+# Model weights
+*.pth
+*.pkl
+
+# Generated visualizations
+*.png
+
+# Training logs and history
+training_history.json
+benchmark_results.txt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
