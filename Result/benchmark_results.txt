@@ -1,0 +1,11 @@
+CPU vs GPU Benchmark Results
+==================================================
+
+Device: SimpleFCNN
+  Training Time: 0.00 seconds
+  Inference Time (per batch): 0.000000 seconds
+
+Device: FCNNWithDropout
+  Training Time: 0.00 seconds
+  Inference Time (per batch): 0.000000 seconds
+
